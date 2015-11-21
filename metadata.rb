@@ -1,0 +1,10 @@
+name             'rackup'
+maintainer       'David Salazar'
+maintainer_email 'dsalazar@iomediums.com'
+license          'All rights reserved'
+description      'Installs/Configures rackup'
+long_description 'Installs/Configures rackup'
+version          '0.1.3'
+
+depends 'packagecloud', '~> 0.0.17'
+depends 'nginx', '~> 2.7.6'
